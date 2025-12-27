@@ -1,0 +1,4 @@
+public enum EventType
+{
+      WORKSHOP,HACKATHON,QUIZ,PROGRAMING,JOB,ABC;
+}

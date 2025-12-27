@@ -1,4 +1,3 @@
-
 public enum DeviceType {
     LIGHT("Smart Light", 60),
     THERMOSTAT("Smart Thermostat", 15),
