@@ -55,6 +55,7 @@ class Dem03 extends MyAbstractClass
 public class Main
 {
     public static void main(String[] args) {
+        // Device object
         Device d = new Device() {
             @Override
             public void isMotor() {
